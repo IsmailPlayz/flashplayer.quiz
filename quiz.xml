@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?For use with the Flash file "quiz.fla"?>
+<?Copyright (c) 2020, IsmailPlayz YTAll rights reserved.Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.    * Neither the name of Technology and Distance Programs, Department of Educational Technology, University of Hawaii at Manoa nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+<? Put the questions first in the list below. For each question type, all of the tags must be included, even if they don't contain any information. If you don't include any information, that option will not appear on the screen. See the true/false question (ID="04") for an example. The id numbers don't matter, but can help you understand the question order. After the questions, put firstpage, navigation, check, and colors. The order of these doesn't matter, but they must come after all of the questions. ?>
+
+<list>
+
+	<question id="00">
+		<? This question type is the most complicated to design. "q" is the question text. For each option (a-f), specify four things. First, the text (txt) that will be shown. Second, the correct target (answer) written as one word, for example, targeta. Third, feedback to display when the answer is correct (right). Fourth, feedback to display when the answer is incorrect (wrong). ?>
+		<type>dragdrop</type>
+		<q>Sleep elk kaartje naar het juiste plekje. Blijf proberen!</q>
+		<optiona>
+			<txt>Soep met balletjes</txt>
+			<answer>targetc</answer>
+			<right>Juist! Dit is een suspensie.</right>
+			<wrong>Fout. TIP: Dit is een suspensie. 2e kans!</wrong>
+		</optiona>
+		<optionb>
+			<txt>Mayonaise</txt>
+			<answer>targetb</answer>
+			<right>Juist! Dit is een emulsie.</right>
+			<wrong>Fout. TIP: Als je mayonaise lang laat staan komt er een olielaagje op.</wrong>
+		</optionb>
+		<optionc>
+			<txt>Lucht</txt>
+			<answer>targeta</answer>
+			<right>Juist! Dit is een gasmengsel.</right>
+			<wrong>Fout. TIP: Lucht bestaat uit verschillende gassen.</wrong>
+		</optionc>
+		<optiond>
+			<txt>Kraantjeswater</txt>
+			<answer>targeta</answer>
+			<right>Juist! Dit is een oplossing.</right>
+			<wrong>Fout. TIP: Water is een oplossing.</wrong>
+		</optiond>
+		<optione>
+			<txt>Azijn</txt>
+			<answer>targeta</answer>
+			<right>Juist! Dit is een oplossing.</right>
+			<wrong>Fout. TIP: Azijn is een oplossing.</wrong>
+		</optione>
+		<optionf>
+			<txt>Zeepbellen</txt>
+			<answer>targetc</answer>
+			<right>Juist! Zeepbelletjes zijn 'Nevel of schuim'</right>
+			<wrong>Fout. TIP: Zeepbellen bestaan uit lucht en zeep.</wrong>
+		</optionf>
+		<? Enter a label for each target. ?>
+		<targeta>Homogeen mengsel</targeta>
+		<targetb>Colloïdaal mengsel</targetb>
+		<targetc>Heterogeen mengsel</targetc>
+		<targetd>Andere</targetd>
+		<? De "andere" tekst zal verschijnen als de gebruiker een optie van het scherm sleept. Dit zou niet mogelijk moeten zijn. ?>
+		<other>Sleep de opties naar het juiste plekje. Probeer opnieuw!</other>
+	</question>
+	
+	<question id="01">
+	<? "q" is de vraagtekst. Specificeer voor elke optie twee dingen. Ten eerste de tekst (txt) die wordt ingevoerd door de gebruiker. Ten tweede, de feedback. ?>
+		<type>text</type>
+		<q>Juist of fout? Tijdens het kooktraject van een zuivere stof blijft de temperatuur gelijk. [bv. "juist"]</q>
+		<optiona>
+			<txt>fout</txt>
+			<feedback>Correct! Tijdens het kookPUNT van een zuivere stof blijft de temperatuur gelijk.</feedback>
+		</optiona>
+		<optionb>
+			<txt>juist</txt>
+			<feedback>Fout! Tijdens het kookPUNT van een zuivere stof blijft de temperatuur gelijk.</feedback>
+		</optionb>
+		<? "wrong" is de feedback die wordt weergegeven als de gebruiker iets anders invoert dan opties a-c. ?>
+		<wrong>Tijdens het kookPUNT van een zuivere stof blijft de temperatuur gelijk.</wrong>
+	</question>
+	
+	<question id="02">
+		<? "q" is the question text. For each option (a-d), specify two things. First, the option text (txt). Second, the feedback (feedback) that will be displayed when that option is chosen. ?>
+		<type>multichoice</type>
+		<q>Duid alle mengsels aan.</q>
+		<optiona>
+			<txt>Een rode gouden ring</txt>
+			<feedback>Juist! Het bevat meerdere stoffen (bv. verf).</feedback>
+		</optiona>
+		<optionb>
+			<txt>Zuurstofgas</txt>
+			<feedback>Fout! O₂ is een zuivere stof.</feedback>
+		</optionb>
+		<optionc>
+			<txt>Zeewater</txt>
+			<feedback>Juist! Zeewater bevat meerdere stoffen (bv. zout).</feedback>
+		</optionc>
+		<optiond>
+			<txt>Zilver</txt>
+			<feedback>Fout! Ag is een zuivere stof.</feedback>
+		</optiond>
+	</question>
+
+	<question id="03">
+		<? "q" is de vraagtekst. Specificeer voor elke optie (a-f) twee dingen. Ten eerste de optie tekst (txt). Ten tweede, de feedback. ?>
+		<type>choose</type>
+		<q>Duid de correcte stelling aan.</q>
+		<optiona>
+			<txt>Een mengsel ontstaat na samenvoeging van meerdere zuivere stoffen, maar bestaat slechts uit 1 soort deeltjes</txt>
+			<feedback>Fout! Probeer opnieuw!</feedback>
+		</optiona>
+		<optionb>
+			<txt>Een mengsel heeft steeds een grotere massadichtheid dan de zuivere stoffen waaruit het ontstaan is.</txt>
+			<feedback>Fout! Probeer nog een keer.</feedback>
+		</optionb>
+		<optionc>
+			<txt>Tijdens het koken van een mengsel verandert de kooktemperatuur.</txt>
+			<feedback>Correct!</feedback>
+		</optionc>
+		<optiond>
+			<txt>Leidingwater is een zuivere stof.</txt>
+			<feedback>Fout. Probeer nog een keer!</feedback>
+		</optiond>
+		<optione>
+			<txt>Een verzameling van grote en kleine korreltjes kristallen is een mengsel.</txt>
+			<feedback>Nee! Probeer opnieuw.</feedback>
+		</optione>
+		<optionf>
+			<txt>Een mengsel heeft steeds een constante samenstelling.</txt>
+			<feedback>Fout! Probeer nog een keer!</feedback>
+		</optionf>
+	</question>
+
+	<question id="04">
+		<? "q" is de vraagtekst. Specificeer voor elke optie (a-c) twee dingen. Ten eerste de optie tekst (txt). Ten tweede, de feedback. ?>
+		<type>choose</type>
+		<q>Rook is een homogeen mengsel.</q>
+		<optiona>
+			<txt>Waar</txt>
+			<feedback>Correct!</feedback>
+		</optiona>
+		<optionb>
+			<txt>Niet waar</txt>
+			<feedback>Fout. Rook is een heterogeen mengsel.</feedback>
+		</optionb>
+	</question>
+			
+	<question id="05">
+		<? "q" is de vraagtekst. Specificeer voor elke optie (a-f) twee dingen. Ten eerste de optie tekst (txt). Ten tweede, correct of niet (answer). ?>
+		<type>multiselect</type>
+		<q>Duid de juiste antwoorden aan.</q>
+		<optiona>
+			<txt>Je kan bij homogene én bij heterogene mengsels decanteren.</txt>
+			<answer>wrong</answer>
+		</optiona>
+		<optionb>
+			<txt>Filtreren gaat alleen bij suspensies.</txt>
+			<answer>right</answer>
+		</optionb>
+		<optionc>
+			<txt>Kristallisatie gaat alleen bij homogene mengsels.</txt>
+			<answer>wrong</answer>
+		</optionc>
+		<optiond>
+			<txt>Destilleren gaat alleen bij heterogene mengsels.</txt>
+			<answer>wrong</answer>
+		</optiond>
+		<optione>
+			<txt>Chromatografie steunt op 'adsorbeerbaarheid' en 'oplosbaarheid' van de componenten.</txt>
+			<answer>wrong</answer>
+		</optione>
+		<optionf>
+			<txt>Om koffie te zetten gebruik je de scheidingstechniek 'extraheren'.</txt>
+			<answer>right</answer>
+		</optionf>
+		<? De "right" feedback wordt weergegeven als de gebruiker alle juiste antwoorden kiest (en geen van de foute antwoorden). Anders wordt de "wrong" feedback weergegeven. ?>
+		<feedback>
+			<right>Correct!</right>
+			<wrong>Fout. Probeer het even opnieuw.</wrong>
+		</feedback>
+	</question>
+
+	<firstpage>
+		<? De afbeelding moet 526 pixels breed en 40 pixels hoog zijn. Als u geen afbeelding specificeert, wordt er niets weergegeven. ?>
+		<img>header.jpg</img>
+		<title>Oefentest Chemie (quiz)</title>
+		<intro>©2020 Ismaïl Z. Klik hieronder op "Ga naar de eerste vraag" om te beginnen.</intro>
+	</firstpage>
+	
+	<navigation>
+		<first>Ga naar de eerste vraag.</first>
+		<goon>Volgende vraag.</goon>
+		<last>Laatste vraag.</last>
+		<previous>Ga terug.</previous>
+	</navigation>	
+	
+	<check>
+		<? "txt" is de tekst die wordt weergegeven op de selectieknop in de vraagtypen met kort antwoord en meervoudige selectie. Gebruik 0x gevolgd door de hexadecimale kleurcode voor de kleuren (zonder de #). "0xFFFFFF" is bijvoorbeeld wit. ?>
+		<txt>Check</txt>
+		<txtcolor>0xFFFFFF</txtcolor>
+		<backgroundcolor>0x0000CC</backgroundcolor>
+		<bordercolor>0x0000CC</bordercolor>
+	</check>
+	
+	<colors>
+	
+		<? Use 0x followed by the hex color code for your colors (without the #). "title" and "intro" appear on the first page only. "bdrcolor" specifies the color of the border around every page. "backgroundcolor" specifies the background color of every page. ?>
+		<title>0xF20001</title>
+		<intro>0x666666</intro>
+		<bdrcolor>0xF20001</bdrcolor>
+		<backgroundcolor>0xFFFFFF</backgroundcolor>
+		
+		<? "questiontext" and "feedbacktext" appear on every page except the first. ?>
+		<questiontext>0x000000</questiontext>
+		<feedbacktext>0x0000CC</feedbacktext>
+		
+		<? The following will be shown on every page that has answer ("option") choices. ?>
+		<optiontext>0x000000</optiontext>
+		<optionborder>0x0000CC</optionborder>
+		<optionbackground>0xFFFFFF</optionbackground>
+		
+		<? The following is used only in the short-answer (text) questions. ?>
+		<answertext>0xF20001</answertext>
+		<answerborder>0x000000</answerborder>
+		<answerbackground>0xFFFFFF</answerbackground>
+		
+		<? The following are only used in the drag-and-drop questions. ?>
+		<targettext>0x666666</targettext>
+		<targetborder>0x666666</targetborder>
+		<targetbackground>0xE0E0E0</targetbackground>
+		
+		<? The following are the colors for the TEXT next to the navigation graphics. ?>
+		<nexttextcolor>0xF20001</nexttextcolor>
+		<prevtextcolor>0xF20001</prevtextcolor>
+		
+		<? The following are the colors for the navigation graphics. ?>
+		<nextcolor>0x0000CC</nextcolor>
+		<prevcolor>0x0000CC</prevcolor>
+		<stopcolor>0x666666</stopcolor>
+	</colors>
+</list>
