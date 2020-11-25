@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?For use with the Flash file "quiz.fla"?>
-<?Copyright (c) 2020, IsmailPlayz YTAll rights reserved.Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.    * Neither the name of Technology and Distance Programs, Department of Educational Technology, University of Hawaii at Manoa nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+<?Copyright (c) 2020, IsmailPlayz YT
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    * Neither the name of Technology and Distance Programs, Department of Educational Technology, University of Hawaii at Manoa nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 <? Put the questions first in the list below. For each question type, all of the tags must be included, even if they don't contain any information. If you don't include any information, that option will not appear on the screen. See the true/false question (ID="04") for an example. The id numbers don't matter, but can help you understand the question order. After the questions, put firstpage, navigation, check, and colors. The order of these doesn't matter, but they must come after all of the questions. ?>
 
@@ -171,12 +178,22 @@
 			<wrong>Fout. Probeer het even opnieuw.</wrong>
 		</feedback>
 	</question>
-
+	
 	<firstpage>
 		<? De afbeelding moet 526 pixels breed en 40 pixels hoog zijn. Als u geen afbeelding specificeert, wordt er niets weergegeven. ?>
 		<img>header.jpg</img>
 		<title>Oefentest Chemie (quiz)</title>
-		<intro>©2020 Ismaïl Z. Klik hieronder op "Ga naar de eerste vraag" om te beginnen.</intro>
+		<intro>©2020 Ismaïl Z. Klik hieronder op "Ga naar de eerste vraag" om te beginnen.
+		  
+		  𝗙𝗨𝗡 𝗙𝗔𝗖𝗧𝗦
+		- Dit kostte me +-24h om te coderen... (niet op 1 dag)
+		- Sommige scripts zijn van anderen (van het internet)
+		- Dit project is open-source, je mag het zelf hergebruiken
+		 Repository link: https://github.com/IsmailPlayz (of /Its.IsmailZ)
+		 (Je moet wel credits geven aan de respectievelijke maker, ik dus :P)
+		 De quiz (de scripts) op Github zullen steeds up-to-date zijn 
+		- Je hebt nu lett. 20 seconden van je leven verspilt xd
+		</intro>
 	</firstpage>
 	
 	<navigation>
