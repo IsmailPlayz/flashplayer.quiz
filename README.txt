@@ -1,6 +1,6 @@
-[DUTCH] International (English) version will be available soon!
+International (English) version will be available soon!
 
-Instructies:
+[DUTCH] Instructies:
 
 Je hebt Adobe Flash Player nodig:
 https://get.adobe.com/nl/flashplayer
