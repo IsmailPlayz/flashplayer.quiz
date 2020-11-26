@@ -6,6 +6,8 @@ Je hebt Adobe Flash Player nodig:
 https://get.adobe.com/nl/flashplayer
 
 1. Decomprimeer Chemie Quiz.zip
+Verwijder quiz.swf (niet die van data mapje) en maak een snelkoppeling 
+naar het bestand "quiz.swf" (van het mapje data) met naam "Oefentest Chemie"
 2. Rechtermuisklik op Oefentest Chemie
 3. Klik op "Openen met..."
 4. Klik nu op "Meer apps"
