@@ -17,7 +17,7 @@ modification, are permitted provided that the following conditions are met:
    contributors may be used to endorse or promote products derived from
    this software without specific prior written permission.
 
-<? Put the questions first in the list below. For each question type, all of the tags must be included, even if they don't contain any information. If you don't include any information, that option will not appear on the screen. See the true/false question (ID="04") for an example. The id numbers don't matter, but can help you understand the question order. After the questions, put firstpage, navigation, check, and colors. The order of these doesn't matter, but they must come after all of the questions. ?>
+<? Zet de vragen eerst in de onderstaande lijst. Voor elk vraagtype moeten alle tags worden opgenomen, ook als ze geen informatie bevatten. Als u geen informatie opneemt, wordt die optie niet op het scherm weergegeven. De ID-nummers doen er niet toe, maar kunnen u helpen de volgorde van de vragen te begrijpen. Plaats na de vragen de eerste pagina, navigatie, controle en kleuren. De volgorde hiervan doet er niet toe. ?>
 
 <list>
 
