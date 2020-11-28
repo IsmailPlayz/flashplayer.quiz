@@ -2,7 +2,7 @@ _International (English) version will be available soon!_
 
 # **Instructies**
 Uitgebreide instructies hoe je de quiz kan openen.
-Meer hulp nodig? [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://www.instagram.com/Its.IsmailZ) / [Facebook](https://www.instagram.com/IsmailPlayzPRO)
+Meer hulp nodig? Contacteer: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)
 
 ## **Ten eerste:**
 * Klik op groene 'Code' knop
