@@ -1,6 +1,6 @@
 _International (English) version will be available soon!_
 
-[DUTCH] # **Instructies**
+# **Instructies**
 
 ## **Ten eerste:**
 * Klik op groene 'Code' knop
