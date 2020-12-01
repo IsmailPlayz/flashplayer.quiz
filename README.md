@@ -24,7 +24,7 @@ naar het bestand 'quiz.swf' (van het mapje data) met naam 'Oefentest Chemie'
 ## **Ten slotte:**
 De quiz mag beginnen! De juiste antwoorden komen automatisch tevoorschijn (met feedback)  
 Het programma kan je gewoon sluiten, en weer openen als je wilt. Het slaagt niets op (in een update wel?)  
-Je kan de bestanden, als je die verloren bent, [hier](https://github.com/IsmailPlayz) weer terug vinden!  
+Je kan de bestanden, als je die verloren bent, [hier](https://github.com/IsmailPlayz) weer terug vinden! (de nieuwste versie)  
 
 ❤️ Credits to:  
 Early Beta Tester, Klara Kersschot ([Instagram](https://www.instagram.com/klara_kersschot))  
