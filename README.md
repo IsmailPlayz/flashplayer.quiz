@@ -23,3 +23,7 @@ naar het bestand 'quiz.swf' (van het mapje data) met naam 'Oefentest Chemie'
 
 ## **Ten slotte:**
 En de quiz mag beginnen!
+
+❤️ Credits to:
+Early Beta Tester, Klara Kersschot ([Instagram](https://www.instagram.com/klara_kersschot))
+Your name here? Contact: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)
