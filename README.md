@@ -1,14 +1,14 @@
-_International (English) version will be available soon!_
+_International (English) version will be available soon!_  
 
 # **Instructies**
-Uitgebreide instructies hoe je de quiz kan openen.
-Meer hulp nodig? Contacteer: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)
+Uitgebreide instructies hoe je de quiz kan openen.  
+Meer hulp nodig? Contacteer: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)  
 
 ## **Ten eerste:**
 * Klik op groene 'Code' knop
 * Klik op 'Download ZIP'
 * Download de zip in een map die je kan onthouden (zoals Bureaublad/Downloads)
-* Download Adobe Flash Player (als je het niet al had): https://get.adobe.com/nl/flashplayer
+* Download Adobe Flash Player (als je het niet al had): https://get.adobe.com/nl/flashplayer  
 
 ## **Daarna:**
 1. Decomprimeer 'Chemie Quiz.zip'
@@ -22,8 +22,8 @@ naar het bestand 'quiz.swf' (van het mapje data) met naam 'Oefentest Chemie'
 7. Dubbelklik op 'flashplayer14.exe'
 
 ## **Ten slotte:**
-En de quiz mag beginnen!
+En de quiz mag beginnen!  
 
-❤️ Credits to:
-Early Beta Tester, Klara Kersschot ([Instagram](https://www.instagram.com/klara_kersschot))
-Your name here? Contact: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)
+❤️ Credits to:  
+Early Beta Tester, Klara Kersschot ([Instagram](https://www.instagram.com/klara_kersschot))  
+Your name here? Contact: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)  
