@@ -1,6 +1,6 @@
 _International (English) version will be available soon!_  
 
-# **Instructies**
+# **Instructies** [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E630AET)
 Uitgebreide instructies hoe je de quiz kan openen.  
 Meer hulp nodig? Contacteer: [Twitter](https://twitter.com/Its_IsmailZ) / [Instagram](https://instagram.com/Its.IsmailZ) / [Facebook](https://www.fb.me/IsmailCodez)  
 
