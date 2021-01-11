@@ -1,3 +1,4 @@
+[![discord](https://img.shields.io/discord/730998659008823296.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NqQ8mqW)
 _International (English) version will be available soon!_  
 
 # **Instructies** [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E630AET)
